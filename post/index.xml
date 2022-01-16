@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Rodrigo Lara</title>
+    <link>https://rodrigolaram.github.io/Lara_Portfolio/post/</link>
+    <description>Recent content in Projects on Rodrigo Lara</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://rodrigolaram.github.io/Lara_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[In Progress] Financial Portfolio App</title>
+      <link>https://rodrigolaram.github.io/Lara_Portfolio/post/chapter-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodrigolaram.github.io/Lara_Portfolio/post/chapter-3/</guid>
+      <description>I&amp;rsquo;m working on a app to keep track of all my financial investments from stocks to cryptos.
+This project was started in December 2021.
+  For full project click the following links
+ &amp;ldquo;GitHub Repository&amp;rdquo;    </description>
+    </item>
+    
+    <item>
+      <title>Correlation between College Football teams stats and victories</title>
+      <link>https://rodrigolaram.github.io/Lara_Portfolio/post/chapter-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodrigolaram.github.io/Lara_Portfolio/post/chapter-2/</guid>
+      <description>Methods:  Used different R programming libraries for data analysis; tidyverse, broom, infer. Read, cleaned, analyzed and plotted different data from numerous files. Constructed a model and hypothesised the final outcome of the investigation. Computed and tested the hypothesis and recorded final results.    Introduction.
+College football is vastly popular across the United States, as it rakes in several millions of spectators every year. With the high-energy and competitiveness of college football (or perhaps college sports in general), there’s no doubt why it’s so popular, especially amongst the students.</description>
+    </item>
+    
+    <item>
+      <title>Is NAFTA responsible for Mexico&#39;s obesity epidemic?</title>
+      <link>https://rodrigolaram.github.io/Lara_Portfolio/post/chapter-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodrigolaram.github.io/Lara_Portfolio/post/chapter-1/</guid>
+      <description>Methods:  Used different Python libraries for data analysis; Pandas, Numpy, Statsmodels.api, Matplotlib.pyplot. Read, cleaned, analyzed and plotted different data from numerous files. Constructed a model and hypothesised the final outcome of the investigation. Computed and tested the hypothesis and recorded final results.    Introduction.
+The North America Free Trade Agreement (NAFTA) was an agreement signed by Canada, Mexico, and the United States that created a trilateral trade block in North America.</description>
+    </item>
+    
+  </channel>
+</rss>
